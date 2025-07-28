@@ -31,7 +31,7 @@ I'm a full stack developer with a passion for solving problems and creating inno
 ![Pritesh's GitHub stats](https://github-readme-stats-five-chi-67.vercel.app/api?username=TheRevenant04&show_icons=true&theme=transparent)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheRevenant04&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📫 Connect With Me
 
