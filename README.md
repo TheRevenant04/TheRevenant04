@@ -13,18 +13,20 @@ I'm a full stack developer with a passion for solving problems and creating inno
 
 ### 👨‍💻🚀 Tech I Use
 
-<img src="./assets/icons/javascript.png" alt="javascript" height="40"/>
-<img src="./assets/icons/java.png" alt="java" height="50"/>
-<img src="./assets/icons/php.png" alt="php" height="50"/>
-<img src="./assets/icons/vue_js.png" alt="vue.js" height="40"/>
-<img src="./assets/icons/spring.png" alt="spring" height="50"/>
-<img src="./assets/icons/laravel.png" alt="laravel" height="50"/>
-<img src="./assets/icons/mysql.png" alt="mysql" height="50"/>
-<img src="./assets/icons/git.png" alt="git" height="50"/>
-<img src="./assets/icons/docker.png" alt="docker" height="50"/>
-<img src="./assets/icons/aws.png" alt="aws" height="50"/>
-<img src="./assets/icons/gcp.png" alt="gcp" height="50"/>
-<img src="./assets/icons/digital_ocean.png" alt="digital ocean" height="50"/>
+<p align="left">
+    <img src="./assets/icons/javascript.png" alt="javascript" height="40"/>
+    <img src="./assets/icons/java.png" alt="java" height="50"/>
+    <img src="./assets/icons/php.png" alt="php" height="50"/>
+    <img src="./assets/icons/vue_js.png" alt="vue.js" height="40"/>
+    <img src="./assets/icons/spring.png" alt="spring" height="50"/>
+    <img src="./assets/icons/laravel.png" alt="laravel" height="50"/>
+    <img src="./assets/icons/mysql.png" alt="mysql" height="50"/>
+    <img src="./assets/icons/git.png" alt="git" height="50"/>
+    <img src="./assets/icons/docker.png" alt="docker" height="50"/>
+    <img src="./assets/icons/aws.png" alt="aws" height="50"/>
+    <img src="./assets/icons/gcp.png" alt="gcp" height="50"/>
+    <img src="./assets/icons/digital_ocean.png" alt="digital ocean" height="50"/>
+</p>
 
 ### 📈 GitHub Stats
 
